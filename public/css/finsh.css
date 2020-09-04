@@ -1,0 +1,22 @@
+.boxForfinel{
+  position: relative;
+  margin: 7em 12em 5em 20em;
+  background-color:  rgba(92, 88, 88, 0.7);;
+  width: 60%;
+  height:500px;
+  border-radius: 35px;
+  display: flex;
+  flex-direction:column;
+  align-items:center;
+  color: white;
+
+}
+
+  .info{
+    align-items:flex-start;
+    margin: 10px;
+  }
+
+  .avatar{
+    margin: 10px;
+  }
